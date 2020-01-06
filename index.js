@@ -37,5 +37,6 @@ function reduceToTotal (arr, startingPoint = 0) {
 } 
 
 function reduceToAllTrue(arr) { 
-  let 
+  let allTrue = True 
+  arr.
 } 
