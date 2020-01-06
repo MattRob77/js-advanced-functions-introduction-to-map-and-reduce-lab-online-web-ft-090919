@@ -22,5 +22,7 @@ function mapToDouble (arr) {
 function mapToSquare (arr) { 
   let newArr = [] 
   arr.forEach((num)) => { 
-    newArr.push(num)
+    newArr.push(num * num) 
+  }) 
+  return newArr 
 } 
