@@ -48,4 +48,5 @@ function reduceToAllTrue (arr) {
 
 function reduceToAnyTrue (arr) { 
   let anyTrue = False 
+  
 } 
