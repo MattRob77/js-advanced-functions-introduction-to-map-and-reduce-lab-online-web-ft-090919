@@ -36,4 +36,6 @@ function reduceToTotal (arr, startingPoint = 0) {
     return total
 } 
 
-function 
+function reduceToAllTrue(arr) { 
+  
+} 
