@@ -7,4 +7,6 @@ function mapToNegativize (arr) {
   return newArr
 }
 
-function mapToNoChange
+function mapToNoChange(arr) { 
+  
+} 
