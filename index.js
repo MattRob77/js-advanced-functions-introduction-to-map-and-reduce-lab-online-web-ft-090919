@@ -11,4 +11,6 @@ function mapToNoChange(arr) {
   return arr 
 } 
 
-function 
+function mapToDouble(arr) { 
+  
+} 
