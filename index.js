@@ -18,3 +18,5 @@ function mapToDouble (arr) {
     })
     return newArr
 } 
+
+function 
