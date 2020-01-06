@@ -11,9 +11,10 @@ function mapToNoChange(arr) {
   return arr 
 } 
 
-function mapToDouble(arr) { 
-  let newarr = [] 
-  arr.forEach((num) => {
-    
-  } 
+function mapToDouble (arr) {
+    let newArr = []
+    arr.forEach((num) => {
+        newArr.push(num * 2)
+    })
+    return newArr
 } 
