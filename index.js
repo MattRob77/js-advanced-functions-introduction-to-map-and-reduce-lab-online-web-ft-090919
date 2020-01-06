@@ -36,7 +36,13 @@ function reduceToTotal (arr, startingPoint = 0) {
     return total
 } 
 
-function reduceToAllTrue(arr) { 
-  let allTrue = True 
-  arr.
+function reduceToAllTrue (arr) {
+   let allTrue = true
+   arr.forEach((item) => {
+       if (!item){
+        allTrue = false
+       }
+   })
+   return allTrue
+}
 } 
