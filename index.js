@@ -46,7 +46,12 @@ function reduceToAllTrue (arr) {
    return allTrue
 } 
 
-function reduceToAnyTrue (arr) { 
-  let anyTrue = False 
-  
+function reduceToAnyTrue (arr) {
+    let anyTrue = false
+    arr.forEach((item) => {
+        if (item) {
+            anyTrue = true
+        }
+    })
+    return anyTrue
 } 
