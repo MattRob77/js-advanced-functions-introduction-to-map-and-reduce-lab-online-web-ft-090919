@@ -6,3 +6,5 @@ function mapToNegativize (arr) {
   })
   return newArr
 }
+
+function 
