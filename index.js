@@ -34,5 +34,4 @@ function reduceToTotal (arr, startingPoint = 0) {
         total += num
     })
     return total
-}
 } 
