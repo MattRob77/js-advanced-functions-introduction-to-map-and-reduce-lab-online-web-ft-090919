@@ -13,5 +13,7 @@ function mapToNoChange(arr) {
 
 function mapToDouble(arr) { 
   let newarr = [] 
-  
+  arr.forEach((num) => {
+    
+  } 
 } 
