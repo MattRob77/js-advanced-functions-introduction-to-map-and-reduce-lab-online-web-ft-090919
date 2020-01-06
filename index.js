@@ -44,5 +44,4 @@ function reduceToAllTrue (arr) {
        }
    })
    return allTrue
-}
 } 
