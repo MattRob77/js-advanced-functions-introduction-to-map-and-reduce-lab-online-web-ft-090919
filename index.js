@@ -28,7 +28,11 @@ function mapToSquare (arr) {
 }
 
 
-function reduceToTotal (arr, startingPoint = 0) { 
-  let total = startingPoint
-  
+function reduceToTotal (arr, startingPoint = 0) {
+    let total = startingPoint
+    arr.forEach((num) => {
+        total += num
+    })
+    return total
+}
 } 
