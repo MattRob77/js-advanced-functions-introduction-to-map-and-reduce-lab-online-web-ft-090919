@@ -45,3 +45,5 @@ function reduceToAllTrue (arr) {
    })
    return allTrue
 } 
+
+function 
