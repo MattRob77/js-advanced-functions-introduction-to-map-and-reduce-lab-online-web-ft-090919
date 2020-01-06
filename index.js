@@ -26,3 +26,5 @@ function mapToSquare (arr) {
     })
     return newArr
 }
+
+
