@@ -28,4 +28,6 @@ function mapToSquare (arr) {
 }
 
 
-function reduceToTotal (array, startingPoint = 0)
+function reduceToTotal (arr, startingPoint = 0) { 
+  
+} 
